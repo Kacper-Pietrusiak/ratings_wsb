@@ -22,4 +22,4 @@
 -input /user/ratings.csv \
 -output /user/output-avg-ratings
 
-9) hdfs dfs -text /user/count-buczek/part-00000 
+9) hdfs dfs -text /user/count-pietrusiak/part-00000 
